@@ -1,6 +1,11 @@
 <div align="center">
   <img width="200px" src="logo.png">
 </div>
+
+<div align="center">
+  
+  [![Translate to Persian](https://img.shields.io/badge/Translate_to_Persian-F62440?style=for-the-badge&logo=google-translate&logoColor=white)](https://translate.google.com/translate?sl=en&tl=fa&u=https://dumirror.com)
+</div>
 <div align="center">
   
   # 🚀 Dumirror | Software Development Studio
