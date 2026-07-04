@@ -447,7 +447,6 @@ For licensing inquiries, please contact: dumirror.dev@gmail.com
 
 If you find our work valuable, please consider giving us a star on GitHub!
 
-[![Star on GitHub](https://img.shields.io/github/stars/dumirror/dumirror?style=social)](https://github.com/dumirror/dumirror)
 [![Follow on GitHub](https://img.shields.io/github/followers/dumirror?style=social)](https://github.com/dumirror)
 
 ---
