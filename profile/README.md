@@ -1,6 +1,9 @@
 <div align="center">
-  <img width="200px" src="logo.png">
+  <img width="800px" src="poster.png">
 </div>
+
+<br/>
+<br/>
 
 <div align="center">
   
