@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="800px" src="final-poster.png">
+  <a href="https://dumirror.com/">
+    <img width="800px" src="final-poster.png">
+  </a>
 </div>
 
 <br/>
