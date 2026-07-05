@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Translate to Persian](https://img.shields.io/badge/Translate_to_Persian-F62440?style=for-the-badge&logo=google-translate&logoColor=white)](https://translate.google.com/translate?sl=en&tl=fa&u=https://dumirror.com)
+  [![Translate to Persian](https://img.shields.io/badge/Translate_to_Persian-F62440?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/Dumirror/.github/blob/main/profile/README-fa.md)
 </div>
 <div align="center">
   
