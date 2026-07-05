@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Translate to English](https://img.shields.io/badge/Translate_to_English-F62440?style=for-the-badge&logo=google-translate&logoColor=white)](https://translate.google.com/translate?sl=fa&tl=en&u=https://dumirror.com)
+  [![Translate to English](https://img.shields.io/badge/Translate_to_English-F62440?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/Dumirror/.github/blob/main/profile/README.md)
 </div>
 
 <div align="center">
