@@ -28,13 +28,7 @@
   <a href="https://github.com/dumirror"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://t.me/dumirror"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://instagram.com/dumirror"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>r)
-  
-  [![License](https://img.shields.io/badge/📄_License-Proprietary-red?style=flat-square)](LICENSE)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/dumirror/contribute)
-  [![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=flat-square)](https://dumirror.com)
-  [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://dumirror.com)
-  [![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=flat-square)](https://dumirror.com)
+</p>
   
   ---
   
