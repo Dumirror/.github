@@ -82,11 +82,13 @@ Our expertise includes web applications, AI-powered solutions, automation, devel
 
 ## Featured Projects
 
-- **Dumirror** — Official website for our products, services, and open-source initiatives.
+- **Dumirror** — Official website showcasing our products, services, and open-source initiatives.
 - **Dumirror Forum** — A community platform where developers can ask questions, share knowledge, and collaborate.
-- **Open Source** — A growing collection of tools, libraries, and experimental projects maintained by Dumirror.
+- **Ready Aim Learn** — An online firearms training platform focused on safety education, course management, class scheduling, and modern learning experiences.
+- **Open Source** — A growing collection of tools, libraries, and community-driven projects maintained by Dumirror.
 
 ---
+
 
 ## License
 
