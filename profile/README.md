@@ -1,26 +1,19 @@
 <div align="center">
-  <a href="https://dumirror.com/">
-    <img width="800px" src="final-poster.png">
-  </a>
-</div>
 
-<br/>
-<br/>
+<a href="https://dumirror.com/">
+  <img width="800" src="final-poster.png" alt="Dumirror Banner">
+</a>
 
-<div align="center">
-  
-  [![Translate to Persian](https://img.shields.io/badge/Translate_to_Persian-F62440?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/Dumirror/.github/blob/main/profile/README-fa.md)
-</div>
-<div align="center">
-  
- # Dumirror
+<br><br>
+
+[![Translate to Persian](https://img.shields.io/badge/Translate_to_Persian-8B5CF6?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/Dumirror/.github/blob/main/profile/README-fa.md)
+
+# Dumirror
 
 ### Building Intelligent Software That Scales.
+
+</div>
   
-<p align="center">
-  <strong>Dumirror</strong><br>
-  <em>Engineering the Future with High-Performance Software</em>
-</p>
 
 <p align="center">
   <a href="https://dumirror.com"><img src="https://img.shields.io/badge/Website-FF653F?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
