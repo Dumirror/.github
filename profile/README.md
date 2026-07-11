@@ -29,13 +29,14 @@
 <a href="https://t.me/dumirror">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-<a href="https://instagram.com/dumirror">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<a href="https://forum.dumirror.com/">
+  <img src="https://img.shields.io/badge/Community-8B5CF6?style=for-the-badge&logo=discourse&logoColor=white" alt="Community">
 </a>
 
 </div>
 
 ---
+
 
 ## About
 
