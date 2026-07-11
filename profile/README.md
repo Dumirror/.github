@@ -17,11 +17,18 @@
   
   ### *Engineering the Future with High-Performance Software*
   
-  [![Website](https://img.shields.io/badge/-dumirror.com-FF653F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dumirror.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/dumirror)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumirror)
-  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dumirror)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dumirror)
+<p align="center">
+  <strong>Dumirror</strong><br>
+  <em>Engineering the Future with High-Performance Software</em>
+</p>
+
+<p align="center">
+  <a href="https://dumirror.com"><img src="https://img.shields.io/badge/Website-FF653F?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/company/dumirror"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/dumirror"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://t.me/dumirror"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://instagram.com/dumirror"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>r)
   
   [![License](https://img.shields.io/badge/📄_License-Proprietary-red?style=flat-square)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/dumirror/contribute)
