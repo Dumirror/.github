@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <a href="https://dumirror.com">
@@ -8,30 +7,29 @@
 <br><br>
 
 [![English Version](https://img.shields.io/badge/English_Version-8B5CF6?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/Dumirror/.github/blob/main/profile/README.md)
-
 # دومیرور
 
-### ساخت نرم‌افزار با هدف.
+### مهندسی نرم‌افزار برای آینده
 
 <br>
 
 <a href="https://dumirror.com">
-  <img src="https://img.shields.io/badge/وب‌سایت-FF653F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/Website-FF653F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
 <a href="mailto:dumirror.dev@gmail.com">
-  <img src="https://img.shields.io/badge/ایمیل-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://github.com/Dumirror">
-  <img src="https://img.shields.io/badge/گیت‌هاب-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://linkedin.com/company/dumirror">
-  <img src="https://img.shields.io/badge/لینکدین-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://t.me/dumirror">
-  <img src="https://img.shields.io/badge/تلگرام-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 <a href="https://forum.dumirror.com/">
-  <img src="https://img.shields.io/badge/انجمن-8B5CF6?style=for-the-badge&logo=githubdiscussion&logoColor=white" alt="Community">
+  <img src="https://img.shields.io/badge/Community-8B5CF6?style=for-the-badge&logo=githubdiscussion&logoColor=white" alt="Community">
 </a>
 
 </div>
