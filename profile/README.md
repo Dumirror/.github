@@ -13,9 +13,9 @@
 </div>
 <div align="center">
   
-  # 🚀 Dumirror | Software Development Studio
-  
-  ### *Engineering the Future with High-Performance Software*
+ # Dumirror
+
+### Building Intelligent Software That Scales.
   
 <p align="center">
   <strong>Dumirror</strong><br>
