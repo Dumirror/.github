@@ -85,10 +85,11 @@ Our expertise includes web applications, AI-powered solutions, automation, devel
 - **Dumirror Forum** — A community platform where developers can ask questions, share knowledge, and collaborate.
 - **Open Source** — A growing collection of tools, libraries, and experimental projects maintained by Dumirror.
 
+---
 
 ## License
 
-This organization contains both open-source and proprietary projects. Unless otherwise specified, each repository is licensed under its own LICENSE file.
+This organization contains both open-source and proprietary projects. Licensing terms are defined in the LICENSE file of each repository.
 
 For licensing inquiries, contact **dumirror.dev@gmail.com**.
 
@@ -96,17 +97,8 @@ For licensing inquiries, contact **dumirror.dev@gmail.com**.
 
 <div align="center">
 
-Made with ❤️ by **Dumirror**
+**Dumirror** • Software Development Studio
 
 © 2026 Dumirror. All rights reserved.
-
-</div>
-[![Follow on GitHub](https://img.shields.io/github/followers/dumirror?style=social)](https://github.com/dumirror)
-
----
-
-### 🏢 Dumirror — Engineering the Future, One Custom Solution at a Time.
-
-**Built with ❤️ by the Dumirror Team**
 
 </div>
