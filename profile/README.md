@@ -4,6 +4,10 @@
   <img width="800" src="final-poster.png" alt="Dumirror Banner">
 </a>
 
+<br/> <br/> 
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=SOFTWARE+STUDIO;TURNING+IDEAS+INTO+REALITY" />
+
 <br> <br>
 
 [![Translate to Persian](https://img.shields.io/badge/Translate_to_Persian-8B5CF6?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/Dumirror/.github/blob/main/profile/README-fa.md)
